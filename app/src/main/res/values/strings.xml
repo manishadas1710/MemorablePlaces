@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memorable Places Manisha</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_memorable_places">Map</string>
+</resources>
